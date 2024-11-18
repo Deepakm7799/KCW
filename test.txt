@@ -1,0 +1,40 @@
+P 7 kw52 k17 kmz1 k1l k8b1 kg6 kjb1
+L 7 kwk1 kzb1 krn k6c k81 kgr kc51
+P 8 k001 k201 k81 kg11 kd7 k652 k4q kb6
+L 10 kms k0c k8b1 kl3 kg02 kqz1 kwd1 kqp1 k351 k21
+L 12 k9q1 k2m1 kld1 kk kpb k6r1 k892 ksj1 krn k4k1 kv81 kz41
+L 12 k822 k882 kkc1 k51 k071 k771 kn3 kfg1 k7d1 k332 k3b1 kbn1
+P 10 klb kj62 kr51 kpz1 k502 k9s k14 k9c1 krx k291
+L 8 kjp k2x1 k2m1 k5p1 kdm1 kk6 kwg1 kkc
+P 14 kc61 kl51 k3k kk6 klf k1 k561 km9 k911 kdd1 kz9 kcd kr5 k76
+L 11 kcc ks12 k391 k471 kzw kqg kd42 k3x k762 kj82 kr42
+P 13 khd kv8 kb82 k692 ks3 kh8 kfk1 kw6 kfj kkb2 ks1 k582 kr02
+L 12 k0k1 kwn1 kkc2 knl kkx1 k4q1 k7n1 kh61 kkn kk k991 kp72
+P 11 k3d1 k721 k711 kcl k0l1 kwc2 kv61 k6k k001 kk51 k3b
+L 13 k0n1 knf1 kkx ksr1 k622 km7 k5k1 kh61 k86 kb62 kk11 kg62 k4k
+L 5 kfj khc1 k1n1 k9z1 k622
+P 25 fg4 f12 fv2 f3b f8b fdh fmb fl9 f3h fdf fcd fjc fg7 fzh f9f f7j fkd f9d f63 f fx5 f8c f65 f98 fzc
+P 16 fqb f9f ff6 fl2 fbf f4b fr2 fff f6j fw6 f0j f17 f64 f63 fb8 fd7
+P 28 fjc fv8 f02 fhg f9 fcc f69 fcd fbh f01 f7 fk6 fx6 f08 fpf fvh fqh f3b fgf fn9 fh1 f78 fcg f14 fx7 fqf fm4 fqc
+P 18 f5c fg4 fk5 fd3 f07 fc fb3 f36 fl8 fwc fh3 fkf fd6 fw1 fph f9c f67 fb5
+P 10 f4b f03 fzg f45 fgj fqf f06 f77 fkb ff6
+P 24 ff1 f52 fv1 fdf fxb fzh fkf f94 frf f21 f1f fn ff9 fwb f95 f11 ff4 fx flg f1 fpf fj fxd f5d
+P 19 fl3 f32 f99 fwb fv3 fc7 fv5 fw4 flb fj4 f26 f73 ff2 fm5 fmd ffd f91 fvg fq4
+P 22 f57 fb5 fq3 f0d f9j fb4 ff5 fx2 fp2 f7g fd5 fm2 fn f52 fpf fg f8 fbd f62 frd fdj fvg
+P 13 fc8 fh5 fk6 ff fjj f8f f1g f52 f6j fvd fq fdh f7d
+P 23 f0j fzc f fz6 fdc f1f fk4 f7f fb7 f2c fd2 f03 fp9 f8c fbh fx5 flj fs2 fr8 fg9 fwd fdg fgf
+P 19 fq7 fjb ffd fk2 f1g fc8 f1d f35 fp9 fn3 fmc fm5 fhh f2j frh fp fl fsb fkg
+P 27 fz5 fn6 fjh fw7 fgd fjj fgb ff fnb fbj f97 fmh f68 fsg f7j fqh fq f8d fmf f72 fhd f47 fgf fdj f36 fld fnf
+P 13 fg5 fk6 f4 fvg f7b fwh ff f63 fxd fhd fr6 ff4 f7d
+L 15 a5rbj a8z5v a46vk a9h9q a98wh ajbc a7w5h afzzf ak99r ahzc5 auk58 ahh6z a7s67 a6qa9 ad6ap
+L 21 a4b1g awpq5 aursg aaj8k awc3z a2d6w apm2s aj7h1 ausgc asl5q aaas2 aqrqq a6apl ajaw1 awu1v az9wd am8ls a1vc6 a84q5 amb7b acsv
+L 18 a9r31 afbdq afa7d a5agw a5z3n auvag a3pkj a8qrk azg77 ajhu01 a3pcz afhkb aqfqb avuzh a1ud6 av92r a1gfa ajvr7
+L 21 ajcu8 a9wuu alq8u ash16 a6p0a a78pq a8an9 aq4vc aa9h6 ajnaw augq6 awq5a ab0p4 a840v ac2f3 ahph3 awqk7 a9b4a asa79 avkja as4j9
+L 18 al4sa asw5k av896 aqjn2 a0jun a9rrs adw2m avs5u aducr ak6s1 aw5301 a8um4 ar5j9 a2s8 a1m7 a3h3z auz0j auk75
+L 18 aqucb al06n ac7bu a4lqg a33w7 a2sk4 a0fuf alf5b a8s5r afzz4 abcwd affhl auqlc afn2v a6gvb arrfr aswgp ab6jf
+L 30 ah0hz avshp arpup auwsb a9a07 adl2r au7g6 aac3 aqwsz alc5h aqd1 arh06 az35n ajn1f as80a a59qf a4wv01 awwnw al5np azzh3 amja9 adav4 a8anm arq6h a94c6 aza7k ajlvc aslu ajnfl aszah
+L 24 avgcm a7g6n a2bjb adw2c av0r5 ajrku avqr5 a2hhg a8gvu ak8gf a6lpd apcah a63v4 ahrqa aj7w1 as31c an753 as3lq a3cbg ajz3g a6m4p azlb6 a2hzw a734a
+L 18 a75qc as39v a4haf amb6j a3lfd a265u a9f8v alpkl a6kvh ab46n abdr9 ajns01 afcn8 amjn2 ag619 apss4 ajl1u a0d1r
+L 21 akn6c alf8d a1vjd acf42 aqgc01 amazj ad027 avcmd a0v5v ahv8d apdvm acg001 a7zd3 a3jk9 ar3ak acup3 abwkg a10lv a8zrd ajksn a2wfl
+L 15 a7g6z aqch1 ahgkh a8sdl al24m a5h6d advlb a8afu ahz2w afpbn ank211 as2jr as07z ankh abchs
+L 12 ahgq7 awnsa a67hd agawl ajh6g asm8c aa97 aq1q1 a1phr a6vz7 audzn a7c27
